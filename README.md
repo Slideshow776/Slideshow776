@@ -1,3 +1,4 @@
+![Sandra Moen](https://user-images.githubusercontent.com/4059636/147421225-0152b305-d779-4c8c-889c-340fee00e5fe.png)
 ### Hi there 👋
 
 <!--
