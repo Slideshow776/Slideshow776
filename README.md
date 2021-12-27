@@ -1,5 +1,5 @@
 ### Hi there <a href="https://sandramoen.no/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<a href="https://sandramoen.no/"><img align='right' src="https://tenor.com/view/cat-keyboard-typing-gif-7358454.gif" width="370"></a>
+<a href="https://sandramoen.no/"><img align='right' src="https://tenor.com/view/cat-keyboard-typing-gif-7358454.gif" width="300"></a>
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
