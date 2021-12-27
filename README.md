@@ -58,7 +58,7 @@
   <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/93443530-9bdc1800-f8d0-11ea-8fce-4b7720d6d404.png" alt="Game Station" width="300" height="250"/> </a>
 </details> 
 
-[back to the top](###hi-there)
+[back to the top](#hi-there-)
 
 <!--
 **Slideshow776/Slideshow776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
