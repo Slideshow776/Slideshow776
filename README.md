@@ -2,7 +2,7 @@
 ### Hi there <a href="https://sandramoen.no/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <a href="https://sandramoen.no/"><img align='right' src="https://tenor.com/view/cat-keyboard-typing-gif-7358454.gif" width="300"></a>
 
-<div></div>
+<div>
 <details align='left'>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -57,6 +57,7 @@
   <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Janne's%20Adventure" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/93442762-66372f00-f8d0-11ea-8814-42b13a6d7530.png" alt="Janne's Adventure" width="300" height="250"/> </a>
   <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/93443530-9bdc1800-f8d0-11ea-8fce-4b7720d6d404.png" alt="Game Station" width="300" height="250"/> </a>
 </details> 
+  </div>
 
 [back to the top](#hi-there-)
 
