@@ -3,7 +3,7 @@
 <a href="https://sandramoen.no/"><img align='right' src="https://tenor.com/view/cat-keyboard-typing-gif-7358454.gif" width="300"></a>
 
 <div></div>
-<details>
+<details align='left'>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
     From my own experience with professional, academic and personal projects, I have learned that it is important to have a good structure with emphasis on others being able to easily read and understand my code.  
