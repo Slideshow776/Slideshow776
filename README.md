@@ -28,7 +28,7 @@
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#" width="40" height="40"/> </a>
   <a href="https://www.khronos.org/opengl/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png" alt="GLSL" width="80" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="vue" width="40" height="40"/> </a>  
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="vue" width="40" height="40"/> </a>  
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" alt="flask" width="40" height="40"/> </a>
   <a href="https://libgdx.com/" target="_blank"> <img src="https://s.appbrain.com/static/202108171501036/blob/sdk-logos/libgdx.png" alt="libgdx" width="80" height="40"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="libgdx" width="40" height="40"/> </a>  
