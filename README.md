@@ -44,6 +44,7 @@
 <details>
   <summary><b>:joystick:&nbsp;&nbsp;Check&nbsp;out&nbsp;my&nbsp;Games</b></summary> 
   <br/>
+  <a href="https://sandramoen.itch.io/soot-the-loot" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/161377286-4a63d7b0-a545-4129-89d1-a328a60f1f36.gif" alt="LibGDX Jam #20" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/libgdx-jam-20" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/159717092-0c17971b-da23-49c5-849b-b039f10dc589.gif" alt="LibGDX Jam #20" width="300" height="150"/> </a>
   <a href="https://play.google.com/store/apps/details?id=no.sandramoen.hunted" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/155588323-9d5097fd-37f3-4dfe-90b4-8d3932e36ab8.gif" alt="Hunted" width="300" height="150"/> </a>
   <a href="https://play.google.com/store/apps/details?id=no.sandramoen.ggj2022oslo" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/151694093-e5b9adce-20ef-4661-b344-227d414fe5b3.gif" alt="Binary Non-Binary" width="150" height="300"/> </a>
