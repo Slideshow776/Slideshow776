@@ -37,7 +37,9 @@
   <a href="https://enonic.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaGKCKVXYaVO_uoXjbOJ46gpIrR_QM80hURWCO9HgKLLusLUnohu0Ac-ksJZgQbArf4sM&usqp=CAU" alt="enonic xp" width="40" height="40"/> </a>  
   <a href="https://webpack.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/> </a>  
   <a href="https://www.thymeleaf.org/" target="_blank"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="webpack" width="40" height="40"/> </a>   
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.mapeditor.org" target="_blank"> <img src="https://hb.imgix.net/0826accb04b88d10c32a27bf885d71288d9241f3.png?auto=compress,format&s=f6ca78e27eebc03a8e75971fdd38797e" alt="aseprite" width="40" height="40"/> </a>
+  <a href="https://www.aseprite.org" target="_blank"> <img src="https://www.mapeditor.org/img/tiled-logo-white.png" alt="tiled" width="40" height="40"/> </a>
   </p>
 </details>
 
