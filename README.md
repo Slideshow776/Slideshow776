@@ -48,6 +48,9 @@
   <summary><b>:joystick:&nbsp;&nbsp;Check&nbsp;out&nbsp;my&nbsp;Games</b></summary> 
   
   <br/>
+  
+  <a href="https://sandramoen.itch.io/slime-in-a-silo" target="_blank"> <img src="" alt="Slime in a Silo" width="1500" height="300"/> </a> <!-- TODO -->
+  
   <a href="https://sandramoen.itch.io/pig-joust" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/175880979-05871499-8461-4df5-ab79-446ed0ff7dba.gif" alt="Pig Joust" width="300" height="150"/> </a>
   <a href="https://github.com/Slideshow776/Trans-Agent-X" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/167386118-fb0aa9a8-067a-4aed-adc6-982df19d17db.gif" alt="Trans Agent X" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/soot-the-loot" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/161377286-4a63d7b0-a545-4129-89d1-a328a60f1f36.gif" alt="Soot the Loot" width="300" height="150"/> </a>
