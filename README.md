@@ -70,6 +70,8 @@
   <a href="https://github.com/Slideshow776/Legacy-Games/tree/master/Game%20Station" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/93443530-9bdc1800-f8d0-11ea-8fce-4b7720d6d404.png" alt="Game Station" width="300" height="250"/> </a>
 </details> 
 
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/slideshow776)
+
 [back to the top](#hi-there-)
 
 <!--
