@@ -49,7 +49,7 @@
   
   <br/>
   
-  <a href="https://store.steampowered.com/app/2192840/Terfenstein_3D/?beta=0" target="_blank"> <img src="https://cdn.akamai.steamstatic.com/steam/apps/2192840/header.jpg?t=1667247225" alt="Terfenstein 3D" width="300" height="150"/> </a>  
+  <a href="https://store.steampowered.com/app/2192840/Terfenstein_3D/?beta=0" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/200133991-84551e8a-26b2-4126-8695-40a6689ac5de.png" alt="Terfenstein 3D" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/slime-in-a-silo" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/192825268-3fc51888-8416-41a8-90b0-d4bbf5cda6e1.gif" alt="Slime in a Silo" width="150" height="300"/> </a>  
   <a href="https://sandramoen.itch.io/pig-joust" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/175880979-05871499-8461-4df5-ab79-446ed0ff7dba.gif" alt="Pig Joust" width="300" height="150"/> </a>
   <a href="https://github.com/Slideshow776/Trans-Agent-X" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/167386118-fb0aa9a8-067a-4aed-adc6-982df19d17db.gif" alt="Trans Agent X" width="300" height="150"/> </a>
