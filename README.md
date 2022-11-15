@@ -41,6 +41,7 @@
   <a href="https://www.mapeditor.org" target="_blank"> <img src="https://hb.imgix.net/0826accb04b88d10c32a27bf885d71288d9241f3.png?auto=compress,format&s=f6ca78e27eebc03a8e75971fdd38797e" alt="aseprite" width="40" height="40"/> </a>
   <a href="https://www.aseprite.org" target="_blank"> <img src="https://www.mapeditor.org/img/tiled-logo-white.png" alt="aseprite" width="40" height="40"/> </a>
   <a href="https://gradle.org" target="_blank"> <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="gradle" width="40" height="40"/> </a>
+  <a href="https://www.gimp.org" target="_blank"> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gradle" width="40" height="40"/> </a>
   </p> 
 </details>
 
