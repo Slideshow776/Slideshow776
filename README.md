@@ -51,7 +51,7 @@
   
   
   <br/>
-  <a href="https://sandramoen.itch.io/the-royal-game-of-ur" target="_blank"> <img src="https://github.com/fourlastor-jams/libgdx-jam-25/assets/4059636/7e5d3a4d-8e92-445b-8705-3b7b6d73393d" alt="The Royal Game of Ur" width="300" height="150"/> </a>
+  <a href="https://sandramoen.itch.io/the-royal-game-of-ur" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/250112444-d1bbb2c4-c540-4078-80f0-dce08d5275ef.png" alt="The Royal Game of Ur" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/wedding-survivor" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/228152971-10aa25a2-46ed-4486-bc2d-e4c0a1e7f0d0.gif" alt="Wedding Survivor" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/roots-of-empathy" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/216830226-e62bc244-5501-41ab-ba97-bf9957ae21a4.gif" alt="Roots of Empathy" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/kampenisse" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/209936614-67ab9b87-9e4a-4952-8682-ef5b69f7dd92.gif" alt="Kæmpenisse" width="300" height="150"/> </a> <a href="https://sandramoen.itch.io/in-the-bag" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/205299389-d146c6b9-49b8-40d1-b1d8-0de87ee5258b.gif" alt="In the Bag" width="300" height="150"/></a><a href="https://store.steampowered.com/app/2192840/Terfenstein_3D/?beta=0" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/200133991-84551e8a-26b2-4126-8695-40a6689ac5de.png" alt="Terfenstein 3D" width="300" height="150"/> </a>
