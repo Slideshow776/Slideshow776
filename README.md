@@ -51,6 +51,7 @@
   
   
   <br/>
+  <a href="https://sandramoen.itch.io/a-terrifying-knight" target="_blank"> <img src="https://github.com/Slideshow776/LibGDX-Jam-26/assets/4059636/bf92cd56-1920-4c88-9fcc-a5f0809cf04b" alt="A Terrifying Knight" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/the-royal-game-of-ur" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/250112444-d1bbb2c4-c540-4078-80f0-dce08d5275ef.png" alt="The Royal Game of Ur" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/wedding-survivor" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/228152971-10aa25a2-46ed-4486-bc2d-e4c0a1e7f0d0.gif" alt="Wedding Survivor" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/roots-of-empathy" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/216830226-e62bc244-5501-41ab-ba97-bf9957ae21a4.gif" alt="Roots of Empathy" width="300" height="150"/> </a>
