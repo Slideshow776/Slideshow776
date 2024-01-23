@@ -52,7 +52,7 @@
   
   <br/>  
   <a href="https://sandramoen.itch.io/chaingun-command" target="_blank"> <img src="https://img.itch.zone/aW1nLzE0MzYyMDkyLnBuZw==/315x250%23c/DK4D%2BQ.png" width="225" height="150"/> </a>
-  <a href="https://sandramoen.itch.io/relationship-anarchy" target="_blank"> <img src="https://img.itch.zone/aW1nLzE0NjgyNDM5LnBuZw==/315x250%23c/9%2FQo1m.png" width="225" height="150"/> </a>  
+  <a href="https://store.steampowered.com/app/2786500/Relationship_Anarchy/" target="_blank"> <img src="https://img.itch.zone/aW1nLzE0NjgyNDM5LnBuZw==/315x250%23c/9%2FQo1m.png" width="225" height="150"/> </a>  
   <a href="https://sandramoen.itch.io/a-terrifying-knight" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/270295948-706e93a4-f235-4d5f-ba2e-7a564000d8e0.png" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/the-royal-game-of-ur" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/250112444-d1bbb2c4-c540-4078-80f0-dce08d5275ef.png" alt="The Royal Game of Ur" width="300" height="150"/> </a>
   <a href="https://sandramoen.itch.io/wedding-survivor" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/228152971-10aa25a2-46ed-4486-bc2d-e4c0a1e7f0d0.gif" alt="Wedding Survivor" width="300" height="150"/> </a>
