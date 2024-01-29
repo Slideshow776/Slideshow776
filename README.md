@@ -51,7 +51,7 @@
   
   
   <br/>  
-  <a href="https://sandramoen.itch.io/ggj2024" target="_blank"> <img src="https://private-user-images.githubusercontent.com/4059636/300408858-984ba27e-1fba-40a0-9d2f-c053e960eb91.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MjIwOTgsIm5iZiI6MTcwNjUyMTc5OCwicGF0aCI6Ii80MDU5NjM2LzMwMDQwODg1OC05ODRiYTI3ZS0xZmJhLTQwYTAtOWQyZi1jMDUzZTk2MGViOTEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDEyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMjlUMDk0OTU4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTcwZTEzNWM1MTY3ZGM0OTI1MDdhYTdjNTAwNzc1ZTM1NGFiZDFhMjFmNzJlZjQ0NmMyMzAzOTgxMzZkZmYyNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.5av0gspaQZl6YDfdFwk3kv4doZRjBlfytv7q4_ISBY8" width="225" height="150"/> </a>
+  <a href="https://sandramoen.itch.io/ggj2024" target="_blank"> <img src="https://img.itch.zone/aW1nLzE0ODI5MDI4LnBuZw==/315x250%23c/6ADKDP.png" width="225" height="150"/> </a>
   <a href="https://sandramoen.itch.io/chaingun-command" target="_blank"> <img src="https://img.itch.zone/aW1nLzE0MzYyMDkyLnBuZw==/315x250%23c/DK4D%2BQ.png" width="225" height="150"/> </a>
   <a href="https://store.steampowered.com/app/2786500/Relationship_Anarchy/" target="_blank"> <img src="https://img.itch.zone/aW1nLzE0NjgyNDM5LnBuZw==/315x250%23c/9%2FQo1m.png" width="225" height="150"/> </a>  
   <a href="https://sandramoen.itch.io/a-terrifying-knight" target="_blank"> <img src="https://user-images.githubusercontent.com/4059636/270295948-706e93a4-f235-4d5f-ba2e-7a564000d8e0.png" width="300" height="150"/> </a>
