@@ -51,6 +51,7 @@
   
   
   <br/>
+  <a href="https://sandramoen.itch.io/squid-jam" target="_blank"> <img src="https://img.itch.zone/aW1nLzE2NjY3NjI5LnBuZw==/315x250%23c/Eri9T%2F.png" width="225" height="150"/> </a>
   <a href="https://sandramoen.itch.io/the-mask" target="_blank"> <img src="https://img.itch.zone/aW1nLzE2MzIxNTA3LnBuZw==/315x250%23c/ldGukr.png" width="225" height="150"/> </a>
   <a href="https://sandramoen.itch.io/libgdx-jam-28" target="_blank"> <img src="https://img.itch.zone/aW1nLzE1NDk3MDUxLnBuZw==/315x250%23c/y85K97.png" width="225" height="150"/> </a>
   <a href="https://sandramoen.itch.io/ggj2024" target="_blank"> <img src="https://img.itch.zone/aW1nLzE0ODI5MDI4LnBuZw==/315x250%23c/6ADKDP.png" width="225" height="150"/> </a>
