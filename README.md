@@ -30,7 +30,7 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="vue" width="40" height="40"/> </a>  
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" alt="flask" width="40" height="40"/> </a>
-  <a href="https://libgdx.com/" target="_blank"> <img src="https://s.appbrain.com/static/202108171501036/blob/sdk-logos/libgdx.png" alt="libgdx" width="80" height="40"/> </a>
+  <a href="https://libgdx.com/" target="_blank"> <img src="https://libgdx.com/assets/brand/logo.png" alt="libgdx" width="80" height="20"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="libgdx" width="40" height="40"/> </a>  
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -42,6 +42,7 @@
   <a href="https://www.aseprite.org" target="_blank"> <img src="https://www.mapeditor.org/img/tiled-logo-white.png" alt="aseprite" width="40" height="40"/> </a>
   <a href="https://gradle.org" target="_blank"> <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="gradle" width="40" height="40"/> </a>
   <a href="https://www.gimp.org" target="_blank"> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gradle" width="40" height="40"/> </a>
+  <a href="https://godotengine.org" target="_blank"> <img src="https://godotengine.org/assets/press/logo_large_color_dark.png" alt="godot" width="100" height="40"/> </a>    
   </p> 
 </details>
 
