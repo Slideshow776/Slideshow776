@@ -42,7 +42,8 @@
   <a href="https://www.aseprite.org" target="_blank"> <img src="https://www.mapeditor.org/img/tiled-logo-white.png" alt="aseprite" width="40" height="40"/> </a>
   <a href="https://gradle.org" target="_blank"> <img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="gradle" width="40" height="40"/> </a>
   <a href="https://www.gimp.org" target="_blank"> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gradle" width="40" height="40"/> </a>
-  <a href="https://godotengine.org" target="_blank"> <img src="https://godotengine.org/assets/press/logo_large_color_dark.png" alt="godot" width="100" height="40"/> </a>    
+  <a href="https://godotengine.org" target="_blank"> <img src="https://godotengine.org/assets/press/logo_large_color_dark.png" alt="godot" width="100" height="40"/> </a>
+  <a href="https://krita.org/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1280px-Calligrakrita-base.svg.png" alt="krita" width="40" height="40"/> </a>
   </p> 
 </details>
 
